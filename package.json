@@ -1,0 +1,8 @@
+{
+  "name": "billing-inventory-system",
+  "version": "1.0.0",
+  "description": "Billing & Inventory Management System",
+  "scripts": {
+    "build": "cd admin && npm install && npm run build"
+  }
+}
